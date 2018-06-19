@@ -1,0 +1,26 @@
+-injars /home/kachel/45/Bakalarka/android/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar
+-outjars /home/kachel/45/Bakalarka/android/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /home/kachel/android-sdk-linux/build-tools/23.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration /home/kachel/45/Bakalarka/android/build/intermediates/multi-dex/debug/components.flags
+
+
+-keep class com.alasnake.game.AndroidLauncher {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

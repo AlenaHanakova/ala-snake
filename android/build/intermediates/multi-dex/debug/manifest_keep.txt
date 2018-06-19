@@ -1,0 +1,7 @@
+-keep class com.alasnake.game.AndroidLauncher { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

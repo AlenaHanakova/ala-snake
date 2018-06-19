@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kachel/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/dcc2193db20e19e1feca8b1240dbbc4e190824fa/asm-5.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcc2193db20e19e1feca8b1240dbbc4e190824fa">
+        <dex dex="/home/kachel/45/Bakalarka/android/build/intermediates/pre-dexed/debug/asm-5.0.3_e19ddb6019e45fff36b04a1fd1035eb0456eed15.jar" />
+    </item>
+    <item
+        jar="/home/kachel/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/87c0ea803b69252868d09308b4618f766f135a96/objenesis-2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="87c0ea803b69252868d09308b4618f766f135a96">
+        <dex dex="/home/kachel/45/Bakalarka/android/build/intermediates/pre-dexed/debug/objenesis-2.1_c4da034af9939f8f11ca438327536277f2cfaa8f.jar" />
+    </item>
+    <item
+        jar="/home/kachel/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.2/b78eaa90aaaf7830e6dffff587ea6e859c2787b2/gdx-box2d-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b78eaa90aaaf7830e6dffff587ea6e859c2787b2">
+        <dex dex="/home/kachel/45/Bakalarka/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.2_14924bde4f7949d98db4214ab2cbedc9dc035b19.jar" />
+    </item>
+    <item
+        jar="/home/kachel/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/kryonet/2.22.0-RC1/2f25f7250a3096a8d1b8182946f6572d90d280d0/kryonet-2.22.0-RC1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2f25f7250a3096a8d1b8182946f6572d90d280d0">
+        <dex dex="/home/kachel/45/Bakalarka/android/build/intermediates/pre-dexed/debug/kryonet-2.22.0-RC1_1dc499681d08602d7e502218f6485248cebb80f9.jar" />
+    </item>
+    <item
+        jar="/home/kachel/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.2/342b830bc718dc1965c8f13fc58dc500e8bd262f/gdx-backend-android-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="342b830bc718dc1965c8f13fc58dc500e8bd262f">
+        <dex dex="/home/kachel/45/Bakalarka/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.2_a126d1b8b569315f54dcef9ed67b0cfba63f6b80.jar" />
+    </item>
+    <item
+        jar="/home/kachel/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.2/e641cb91bec06bc64d9ddf7a7d7062caceec73cd/gdx-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e641cb91bec06bc64d9ddf7a7d7062caceec73cd">
+        <dex dex="/home/kachel/45/Bakalarka/android/build/intermediates/pre-dexed/debug/gdx-1.9.2_310e411a4b00ea2bfa585b1fddb064169bc04e3b.jar" />
+    </item>
+    <item
+        jar="/home/kachel/45/Bakalarka/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a1b1118d4c7f5c50d8b8e82aa0be7a063d0a333d">
+        <dex dex="/home/kachel/45/Bakalarka/android/build/intermediates/pre-dexed/debug/core-1.0_d66dfc069332f680ec33f5b36f7a197d39c8f134.jar" />
+    </item>
+    <item
+        jar="/home/kachel/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/reflectasm/1.10.1/515402cd542ab967a1b5028b4dee1e1800db205b/reflectasm-1.10.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="515402cd542ab967a1b5028b4dee1e1800db205b">
+        <dex dex="/home/kachel/45/Bakalarka/android/build/intermediates/pre-dexed/debug/reflectasm-1.10.1_0bd6dc64e16b6ff2535cc6c4446c726658801f51.jar" />
+    </item>
+    <item
+        jar="/home/kachel/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/jsonbeans/0.7/de977f0875708eddd154f2a4c3a3f58a13ef297/jsonbeans-0.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0de977f0875708eddd154f2a4c3a3f58a13ef297">
+        <dex dex="/home/kachel/45/Bakalarka/android/build/intermediates/pre-dexed/debug/jsonbeans-0.7_78f05c4fecd7f47238befcf961b8bf1cc6d9e359.jar" />
+    </item>
+    <item
+        jar="/home/kachel/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/minlog/1.3.0/ff07b5f1b01d2f92bb00a337f9a94873712f0827/minlog-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ff07b5f1b01d2f92bb00a337f9a94873712f0827">
+        <dex dex="/home/kachel/45/Bakalarka/android/build/intermediates/pre-dexed/debug/minlog-1.3.0_a21b5c046abb3727667bd262521025f02f6efb8c.jar" />
+    </item>
+    <item
+        jar="/home/kachel/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/kryo/3.0.1/8d945f3c03c3359fdfe46c62aa70c7fe7c1e00e2/kryo-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d945f3c03c3359fdfe46c62aa70c7fe7c1e00e2">
+        <dex dex="/home/kachel/45/Bakalarka/android/build/intermediates/pre-dexed/debug/kryo-3.0.1_237ec29e0a50cc96dedaf16e7bff365b8b5ca13e.jar" />
+    </item>
+
+</items>
